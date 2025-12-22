@@ -1,2 +1,2 @@
-# .github
-not a L O L
+# mozzy
+its like "mozzy" without "studios" or "studios" without "mozzy"
